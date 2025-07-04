@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/rizkicaandra/time-tracking-dashboard)
-- Live Site URL: [Live Demo](https://regal-starship-527c1c.netlify.app/)
+- Live Site URL: [Live Demo](https://resilient-licorice-e2d3c9.netlify.app/)
 
 ## My process
 
